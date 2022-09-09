@@ -1,0 +1,40 @@
+.container{
+    width: 1300px;
+    margin: auto;
+}
+.header-wrapper{
+    display: flex;
+    justify-content: space-between;
+    colour: white;
+}
+.header-wrapper .header-logo{
+    width: 124px;
+    height: 34px;
+    
+    font-size: xx-large;
+}
+.nav-item{
+    padding: 25px;
+    width: 200px;
+    height: 90px;
+    font-size: medium;
+    display: inline;
+
+}
+.nav-bar{
+    align-items: center;
+}
+.header--text-area{
+    font-size: xx-large;
+    padding-left: 700px;
+}
+
+.banner-flex-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+.headder-wrapper .banner-image{
+    width: 70%;
+    padding-left: 380px;
+}
